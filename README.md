@@ -13,8 +13,8 @@ Here are 2 worksheets for getting started:
 
 Because of timing, I used a problem from Practice Exam 1 to create a lab session. Thus, the lab has a dual purpose: to learn the first-order differential equation to model cooling/heating of a material subject to the ambient temperature, e.g., a hot cup of coffee cooling to drinkable temperature.
 
-* Problem 4 of the Practice Exam: \\
+* Problem 4 of the Practice Exam: <br>
 PracticeExam1_DE_Spring2025.pdf
 	
-* Download the Maple file to plug and play: \\
+* Download the Maple file to plug and play: <br>
 NewtonsLaw_PracticeExam1_plugandplay.maple
