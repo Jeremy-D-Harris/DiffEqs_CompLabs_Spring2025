@@ -1,7 +1,7 @@
 # DiffEqs_CompLabs_Spring2025
 For the computational lab component of the differential equations course (Spelman College, 2025)
 
-<pre>
+<div style="white-space: pre">
 ## Repository includes computational labs in Maple and Matlab: <\br>
 
 ## Maple Lab 1: Getting Started with Maple (Week 3):
@@ -22,4 +22,4 @@ PracticeExam1_DE_Spring2025.pdf
 * Download the Maple file to plug and play: <br>
 NewtonsLaw_PracticeExam1_plugandplay.maple
 
-</pre>
+</div>
