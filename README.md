@@ -6,8 +6,10 @@ For the computational lab component of the differential equations course (Spelma
 # Maple Lab 1: Getting Started with Maple (Week 3): #
 
 Here are 2 worksheets for getting started: 
-* Download: Maple_Gettingstarted_blank.mw (Getting Started!)
-* Download: DFields_Logistic_And_blank_working.mw (Plotting Direction Fields!) 
+* Download: <br> 
+Maple_Gettingstarted_blank.mw (Getting Started!)
+* Download: <br>
+DFields_Logistic_And_blank_working.mw (Plotting Direction Fields!) 
 
 # Maple Lab 2: Using Maple to solve Newton’s Law of Cooling (Week 5): 
 
