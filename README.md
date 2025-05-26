@@ -1,9 +1,9 @@
 # DiffEqs_CompLabs_Spring2025
 For the computational lab component of the differential equations course (Spelman College, 2025)
 
-## Repository includes computational labs in Maple and Matlab: ## <br>
+## Repository includes computational labs in Maple and Matlab: <br\>
 
-## Maple Lab 1: Getting Started with Maple (Week 3): ##
+## Maple Lab 1: Getting Started with Maple (Week 3):
 
 Here are 2 worksheets for getting started: 
 * Download: <br> 
