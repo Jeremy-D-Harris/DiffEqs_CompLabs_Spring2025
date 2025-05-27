@@ -9,7 +9,10 @@ Repository includes computational labs in Maple and Matlab:
 
 Here are 2 worksheets for getting started:
 * **Download:** <br>
-Maple_Gettingstarted_blank.mw (Getting Started!)
+<a href="#" target="_blank" rel="noopener noreferrer">
+	Maple_Gettingstarted_blank.mw
+</a>
+(Getting Started!)
 * **Download:** <br>
 DFields_Logistic_And_blank_working.mw (Plotting Direction Fields!)
 
