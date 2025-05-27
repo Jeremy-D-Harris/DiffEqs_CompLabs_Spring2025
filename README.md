@@ -28,32 +28,32 @@ NewtonsLaw_PracticeExam1_plugandplay.maple
 
 Part of Homework Assignment 5 but completed in class due to Maple software only being available on Math Department Computers.
 
-* Complete the following worksheet on implicit solutions: <br>
-Download: HW2_ImplicitSolns.pdf
+* **Complete the following worksheet on implicit solutions:** <br>
+**Download:** HW2_ImplicitSolns.pdf
 
-* Use this Maple file to help: <br>
-ImplicitSolutions_plugandplay.mw
+* **Use this Maple file to help:** <br>
+**Download:** ImplicitSolutions_plugandplay.mw
 
 
 
 ## Lab 3: Getting Started in Matlab and Euler's Method (Week 10)
 
-* Download Matlab at the following link:
+* **Download Matlab at the following link:**
 <a href="#" target="_blank" rel="noopener noreferrer">
 	https://www.mathworks.com/academia/tah-portal/spelman-college-31560258.html
 </a>
 
 
 
-* Download this pdf to get started: <br>
+* **Download this pdf to get started:** <br>
 	lab_intro_f20_M_student.pdf
 
 
-* Download common Matlab commands for reference: <br>
+* **Download common Matlab commands for reference:** <br>
 	Matlab_quickref.pdf
 
 
-* Download the Matlab file that we plug and play Euler's Method: <br>
+* **Download the Matlab file that we plug and play Euler's Method:** <br>
 	EulersMethod_plugandplay.m
 
 
@@ -61,7 +61,7 @@ ImplicitSolutions_plugandplay.mw
 ## HW 6: Implement Euler's Method (Week 11)
 
 * Implement Euler's Method on 1st Order Differential Equations: <br>
-Use Matlab code from class to complete: <br>
+**Use Matlab code from class to complete:** <br>
 Exercises 2.6: 1, 2, 4
 
 
