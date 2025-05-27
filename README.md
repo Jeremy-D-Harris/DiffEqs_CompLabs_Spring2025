@@ -88,10 +88,12 @@ Exercises 2.6: 1, 2, 4
 * Implement a 2D system of 1st order differential equations to simulate a chemical reaction – the concentrations of reactants and products over time: <br>
 	<a href="https://github.com/Jeremy-D-Harris/DiffEqs_CompLabs_Spring2025/tree/main/H_option/Maple" target="_blank" rel="noopener noreferrer">
 	Maple
-	</a>
+
+	</a> <br>
 	<a href="https://github.com/Jeremy-D-Harris/DiffEqs_CompLabs_Spring2025/tree/main/H_option/Matlab" target="_blank" rel="noopener noreferrer">
 	Matlab
-	</a>
+	</a> <br>
+
 	<a href="https://github.com/Jeremy-D-Harris/DiffEqs_CompLabs_Spring2025/tree/main/H_option/TwoStep_Rxn" target="_blank" rel="noopener noreferrer">
 	TwoStep_Rxn
 	</a>
