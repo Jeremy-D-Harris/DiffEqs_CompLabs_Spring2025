@@ -8,12 +8,12 @@ Repository includes computational labs in Maple and Matlab:
 ## Lab 1: Getting Started in Maple (Week 3):
 
 Here are 2 worksheets for getting started:
-* **Download:** <br>
+* **Download:**
 <a href="https://github.com/Jeremy-D-Harris/DiffEqs_CompLabs_Spring2025/blob/main/Maple_Lab1/Maple_Gettingstarted.mw" target="_blank" rel="noopener noreferrer">
 	Maple_Gettingstarted.mw
 </a>
-(Getting Started!)
-* **Download:** <br>
+(Getting Started!) <br>
+* **Download:** 
 <a href="https://github.com/Jeremy-D-Harris/DiffEqs_CompLabs_Spring2025/blob/main/Maple_Lab1/DFields_Logistic_And_blank_working.mw" target="_blank" rel="noopener noreferrer">
 	DFields_Logistic_And_blank_working.mw
 </a>
