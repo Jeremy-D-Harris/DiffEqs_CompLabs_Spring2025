@@ -21,11 +21,14 @@ Here are 2 worksheets for getting started:
 Because of timing, I used a problem from Practice Exam 1 to create a lab session. Thus, the lab has a dual purpose: to learn the first-order differential equation to model cooling/heating of a material subject to the ambient temperature, e.g., a hot cup of coffee cooling to drinkable temperature.
 
 * **Problem 4 of the Practice Exam:** <br>
-PracticeExam1_DE_Spring2025.pdf
+<a href="https://github.com/Jeremy-D-Harris/DiffEqs_CompLabs_Spring2025/blob/main/Maple_Lab2/PracticeExam1_DE_Spring2025.pdf" target="_blank" rel="noopener noreferrer">
+	PracticeExam1_DE_Spring2025.pdf
+</a>
 
 * **Download the Maple file to plug and play:** <br>
-NewtonsLaw_PracticeExam1_plugandplay.maple
-
+<a href="https://github.com/Jeremy-D-Harris/DiffEqs_CompLabs_Spring2025/blob/main/Maple_Lab2/NewtonsLaw_PracticeExam1_plugandplay.maple" target="_blank" rel="noopener noreferrer">
+	NewtonsLaw_PracticeExam1_plugandplay.maple
+</a>
 
 ## HW 5: Using Maple with Implicit Differentiation (Week 7):
 
