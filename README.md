@@ -28,47 +28,47 @@ NewtonsLaw_PracticeExam1_plugandplay.maple
 
 Part of Homework Assignment 5 but completed in class due to Maple software only being available on Math Department Computers.
 
-* Complete the following worksheet on implicit solutions:
+* Complete the following worksheet on implicit solutions: <br>
 Download: HW2_ImplicitSolns.pdf
 
-* Use this Maple file to help:
+* Use this Maple file to help: <br>
 ImplicitSolutions_plugandplay.mw
 
 
 
 ## Lab 3: Getting Started in Matlab and Euler's Method (Week 10)
 
-Download Matlab at the following link:
+* Download Matlab at the following link: <br>
 <a href="#" target="_blank" rel="noopener noreferrer">
 https://www.mathworks.com/academia/tah-portal/spelman-college-31560258.html
 </a>
 
 
 
-* Download this pdf to get started:
+* Download this pdf to get started: <br>
 	lab_intro_f20_M_student.pdf
 
 
-* Download common Matlab commands for reference:
+* Download common Matlab commands for reference: <br>
 	Matlab_quickref.pdf
 
 
-* Download the Matlab file that we plug and play Euler's Method:
+* Download the Matlab file that we plug and play Euler's Method: <br>
 	EulersMethod_plugandplay.m
 
 
 
 ## HW 6: Implement Euler's Method (Week 11)
 
-* Implement Euler's Method on 1st Order Differential Equations:
-Use Matlab code from class to complete:
+* Implement Euler's Method on 1st Order Differential Equations: <br>
+Use Matlab code from class to complete: <br>
 Exercises 2.6: 1, 2, 4
 
 
 ## Using Matlab to study 2nd Order Differential Equations:
 
-* Implement a 2D system of 1st order differential equations to simulate a chemical reaction – the concentrations of reactants and products over time:
-	HOption_systems.pdf
+* Implement a 2D system of 1st order differential equations to simulate a chemical reaction – the concentrations of reactants and products over time: <br>
+	HOption_systems.pdf <br>
 	main_2ndOrderRxn.m
 
 
