@@ -61,4 +61,12 @@ https://www.mathworks.com/academia/tah-portal/spelman-college-31560258.html
 Use Matlab code from class to complete:
 Exercises 2.6: 1, 2, 4
 
+
+## Using Matlab to study 2nd Order Differential Equations:
+
+* Implement a 2D system of 1st order differential equations to simulate a chemical reaction – the concentrations of reactants and products over time:
+	HOption_systems.pdf
+	main_2ndOrderRxn.m
+
+
 </div>
