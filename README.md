@@ -10,7 +10,7 @@ Repository includes computational labs in Maple and Matlab:
 Here are 2 worksheets for getting started:
 * **Download:** <br>
 <a href="#" target="_blank" rel="noopener noreferrer">
-	Maple_Gettingstarted_blank.mw
+	https://github.com/Jeremy-D-Harris/DiffEqs_CompLabs_Spring2025/blob/main/Maple_Lab1/Maple_Gettingstarted.mw
 </a>
 (Getting Started!)
 * **Download:** <br>
