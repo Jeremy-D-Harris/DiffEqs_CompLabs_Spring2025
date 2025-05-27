@@ -9,12 +9,15 @@ Repository includes computational labs in Maple and Matlab:
 
 Here are 2 worksheets for getting started:
 * **Download:** <br>
-<a href="#" target="_blank" rel="noopener noreferrer">
-	https://github.com/Jeremy-D-Harris/DiffEqs_CompLabs_Spring2025/blob/main/Maple_Lab1/Maple_Gettingstarted.mw
+<a href="https://github.com/Jeremy-D-Harris/DiffEqs_CompLabs_Spring2025/blob/main/Maple_Lab1/Maple_Gettingstarted.mw" target="_blank" rel="noopener noreferrer">
+	Maple_Gettingstarted.mw
 </a>
 (Getting Started!)
 * **Download:** <br>
-DFields_Logistic_And_blank_working.mw (Plotting Direction Fields!)
+<a href="https://github.com/Jeremy-D-Harris/DiffEqs_CompLabs_Spring2025/blob/main/Maple_Lab1/DFields_Logistic_And_blank_working.mw" target="_blank" rel="noopener noreferrer">
+	DFields_Logistic_And_blank_working.mw
+</a>
+ (Plotting Direction Fields!)
 
 ## Lab 2: Using Maple to solve Newton’s Law of Cooling (Week 5): ##
 
@@ -42,7 +45,7 @@ Part of Homework Assignment 5 but completed in class due to Maple software only 
 ## Lab 3: Getting Started in Matlab and Euler's Method (Week 10)
 
 * **Download Matlab at the following link:**
-<a href="#" target="_blank" rel="noopener noreferrer">
+<a href="https://www.mathworks.com/academia/tah-portal/spelman-college-31560258.html" target="_blank" rel="noopener noreferrer">
 	https://www.mathworks.com/academia/tah-portal/spelman-college-31560258.html
 </a>
 
