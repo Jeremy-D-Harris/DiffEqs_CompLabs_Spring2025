@@ -57,15 +57,22 @@ Part of Homework Assignment 5 but completed in class due to Maple software only 
 
 
 * **Download this pdf to get started:** <br>
+	<a href="https://github.com/Jeremy-D-Harris/DiffEqs_CompLabs_Spring2025/blob/main/Matlab_Lab3/lab_intro_f20_M_student-6.pdf" target="_blank" rel="noopener noreferrer">
 	lab_intro_f20_M_student.pdf
+	</a>
 
 
 * **Download common Matlab commands for reference:** <br>
+	<a href="https://github.com/Jeremy-D-Harris/DiffEqs_CompLabs_Spring2025/blob/main/Matlab_Lab3/matlab_quickref.pdf" target="_blank" rel="noopener noreferrer">
 	Matlab_quickref.pdf
+	</a>
+
 
 
 * **Download the Matlab file that we plug and play Euler's Method:** <br>
+	<a href="https://github.com/Jeremy-D-Harris/DiffEqs_CompLabs_Spring2025/blob/main/Matlab_Lab3/EulersMethod_plugandplay.m" target="_blank" rel="noopener noreferrer">
 	EulersMethod_plugandplay.m
+	</a>
 
 
 
@@ -79,8 +86,15 @@ Exercises 2.6: 1, 2, 4
 ## Using Matlab to study 2nd Order Differential Equations:
 
 * Implement a 2D system of 1st order differential equations to simulate a chemical reaction – the concentrations of reactants and products over time: <br>
-	HOption_systems.pdf <br>
-	main_2ndOrderRxn.m
+	<a href="https://github.com/Jeremy-D-Harris/DiffEqs_CompLabs_Spring2025/tree/main/H_option/Maple" target="_blank" rel="noopener noreferrer">
+	Maple
+	</a>
+	<a href="https://github.com/Jeremy-D-Harris/DiffEqs_CompLabs_Spring2025/tree/main/H_option/Matlab" target="_blank" rel="noopener noreferrer">
+	Matlab
+	</a>
+	<a href="https://github.com/Jeremy-D-Harris/DiffEqs_CompLabs_Spring2025/tree/main/H_option/TwoStep_Rxn" target="_blank" rel="noopener noreferrer">
+	TwoStep_Rxn
+	</a>
 
 
 </div>
