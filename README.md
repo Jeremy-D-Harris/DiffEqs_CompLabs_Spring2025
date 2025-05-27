@@ -35,24 +35,24 @@ Because of timing, I used a problem from Practice Exam 1 to create a lab session
 Part of Homework Assignment 5 but completed in class due to Maple software only being available on Math Department Computers.
 
 * **Complete the following worksheet on implicit solutions:** <br>
-<a href="https://github.com/Jeremy-D-Harris/DiffEqs_CompLabs_Spring2025/blob/main/Maple_HW5/HW2_ImplicitSolns.pdf" target="_blank" rel="noopener noreferrer">
-HW2_ImplicitSolns.pdf
-</a>
+	<a href="https://github.com/Jeremy-D-Harris/DiffEqs_CompLabs_Spring2025/blob/main/Maple_HW5/HW2_ImplicitSolns.pdf" target="_blank" rel="noopener noreferrer">
+	HW2_ImplicitSolns.pdf
+	</a>
 
 
 * **Use this Maple file to help:** <br>
-<a href="https://github.com/Jeremy-D-Harris/DiffEqs_CompLabs_Spring2025/blob/main/Maple_HW5/ImplicitSolutions_plugandplay.mw" target="_blank" rel="noopener noreferrer">
-ImplicitSolutions_plugandplay.mw
-</a>
+	<a href="https://github.com/Jeremy-D-Harris/DiffEqs_CompLabs_Spring2025/blob/main/Maple_HW5/ImplicitSolutions_plugandplay.mw" target="_blank" rel="noopener noreferrer">
+	ImplicitSolutions_plugandplay.mw
+	</a>
 
 
 
 ## Lab 3: Getting Started in Matlab and Euler's Method (Week 10)
 
 * **Download Matlab at the following link:**
-<a href="https://www.mathworks.com/academia/tah-portal/spelman-college-31560258.html" target="_blank" rel="noopener noreferrer">
+	<a href="https://www.mathworks.com/academia/tah-portal/spelman-college-31560258.html" target="_blank" rel="noopener noreferrer">
 	https://www.mathworks.com/academia/tah-portal/spelman-college-31560258.html
-</a>
+	</a>
 
 
 
