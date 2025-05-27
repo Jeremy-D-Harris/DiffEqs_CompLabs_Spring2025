@@ -49,7 +49,7 @@ Part of Homework Assignment 5 but completed in class due to Maple software only 
 
 ## Lab 3: Getting Started in Matlab and Euler's Method (Week 10)
 
-* **Download Matlab at the following link:**
+* **Download Matlab at the following link:** <br>
 	<a href="https://www.mathworks.com/academia/tah-portal/spelman-college-31560258.html" target="_blank" rel="noopener noreferrer">
 	https://www.mathworks.com/academia/tah-portal/spelman-college-31560258.html
 	</a>
